@@ -1,5 +1,5 @@
 # nikita-demo
 
-my git repository
+My Git Repository
 <br>
-Author-nikita jadhav(pccoer)
+Author-Nikita Jadhav(PCCOER)
